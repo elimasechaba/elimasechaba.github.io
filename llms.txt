@@ -1,14 +1,57 @@
 # Eli Masechaba
 
-> Business Consultant & Fuel Industry Specialist, Wits Business School alumna, delivering strategic solutions across business consulting and the fuel industry.
+## Who She Is
 
-This is a static, AI-crawler-accessible mirror of elimasechaba.com, published here because the live WordPress site's hosting-level security (Imunify360 WAF) blocks AI crawler access at the server. Content below reflects the same information published on the main site.
+Eli Masechaba is a South African business consultant and fuel industry specialist. She is a Wits Business School alumna, and her work spans two connected areas: fuel industry consulting and partnership, and broader business advisory and governance consulting through her brand Ascentpeak.
 
-## Business Consulting
-Strategic advisory and board-level consulting under the Ascentpeak brand.
+She positions herself informally as South Africa's "diesel queen" — a fuel industry expert who also brings a business consultant's lens to governance, compliance, and operational strategy for South African SMEs.
 
-## Fuel Industry
-Fuel sector partnerships and wholesale distribution under the FuelZone brand.
+## Areas of Expertise
+
+### Fuel Industry
+- Fuel procurement strategy for commercial and industrial clients
+- Bulk diesel, petrol, and paraffin supply, delivered or collected, through a strategic partnership with FuelZone (https://www.fuelzonesa.co.za/)
+- Multiple collection locations across South Africa
+- "Fuel security" strategy for commercial fleets — covering supply reliability, not just price
+
+### Business Consulting (Ascentpeak)
+- Board-level advisory and corporate governance consulting for South African SMEs
+- King Code / King V governance compliance (the corporate governance code effective for financial years from 1 January 2026, including its principle on data/information/technology governance)
+- POPIA (Protection of Personal Information Act) compliance — Information Officer registration, PAIA manuals, data subject request handling, direct marketing consent, incident response planning
+- B-BBEE codes and scorecard literacy for SMEs
+- Practical, jargon-free strategic and operational advice for business owners
+
+### Accounting Partnership
+- Strategic partnership with Sol Accounting (contact: john@solaccounting.tax), providing tax and accounting support to clients in South Africa and internationally
+
+## Website Structure
+
+The site (elimasechaba.com) is organized around these sections:
+- Homepage — overview, live fuel pricing ticker, interactive quizzes ("Is Your Business Pump-Ready?" diagnostic, Fuel Pump Challenge game)
+- Ascentpeak — business consulting and governance advisory
+- Fuel / FuelZone — fuel industry partnership and supply information
+- Insights — educational articles (see below)
+- Sol — accounting partnership page
+- Contact
+
+## Representative Published Articles
+
+The Insights section publishes explainer-style articles on South African business compliance and governance topics, written for SME owners rather than compliance specialists. Recent examples include:
+- "POPIA Isn't Optional Anymore" — on the Information Regulator's shift to proactive enforcement, common SME compliance gaps, and King V's data governance principle
+- "B-BBEE Codes, Actually Explained"
+- "Beyond the Price Per Litre" — fuel security strategy for commercial fleets
+- "What Even Is the King Code?" — introduction to South Africa's corporate governance framework
 
 ## Contact
-See contact details on the main site: https://elimasechaba.com
+
+WhatsApp and phone contact are available via the main site. For accounting inquiries specifically, contact is via Sol Accounting (john@solaccounting.tax).
+
+Main site: https://elimasechaba.com
+
+---
+
+## About This Mirror
+
+This page is a static, AI-crawler-accessible mirror of elimasechaba.com, published separately because the live WordPress site's hosting-level security (a WAF bundled into its hosting provider's infrastructure) blocks some AI crawlers at the server level, before requests reach WordPress itself.
+
+Content here reflects what was published on the main site as of the last manual export and will not reflect changes made afterward. Time-sensitive figures (such as daily fuel pricing) should not be treated as current — refer to the live site or FuelZone directly for today's pricing.
